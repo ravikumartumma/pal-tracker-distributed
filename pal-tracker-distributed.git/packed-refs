@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+eb2f6933fdbeb4590a7c87988be70753e6510966 refs/heads/master
+09d7f4b51a04f930832d58709058d49ea1f77057 refs/tags/circuit-breaker-solution
+238d8d05810629f49067052abc1781275a8ab3f0 refs/tags/circuit-breaker-start
+d8cf858186c213b683909fe492377111575eef67 refs/tags/config-server-solution
+e40212e671c7b763029acd49fdbf25a612a83c3a refs/tags/config-server-start
+13037db9c102364f6af6f78240a274341b128337 refs/tags/pipeline
+e40212e671c7b763029acd49fdbf25a612a83c3a refs/tags/security-solution
+09d7f4b51a04f930832d58709058d49ea1f77057 refs/tags/security-start
+238d8d05810629f49067052abc1781275a8ab3f0 refs/tags/service-discovery-solution
+13037db9c102364f6af6f78240a274341b128337 refs/tags/service-discovery-start
