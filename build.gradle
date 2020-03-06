@@ -14,8 +14,14 @@ buildscript {
         junitVersion = "4.12"
         okhttpVersion = "3.12.0"
         jsonPathVersion = "2.4.0"
+		springCloudVersion = "Hoxton.SR2"
+		springCloudServicesClientLibrariesVersion = "1.1.1.RELEASE"
     }
 
+        /*springCloudDependenciesVersion = "Edgware.RELEASE"
+        springCloudServicesVersion = "1.6.4.RELEASE"
+        springCloudSsoVersion = "2.0.0.RELEASE" */
+        
     repositories {
         mavenCentral()
         jcenter()
