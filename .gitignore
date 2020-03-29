@@ -2,6 +2,8 @@
 build
 .idea
 *.iml
+*.class
+*/*.class
 *.ipr
 *.iws
 .DS_Store
@@ -10,4 +12,5 @@ ci/variables.yml
 *.project
 *.classpath
 */bin/
+*/bin/*
 *.settings/
